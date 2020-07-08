@@ -1,0 +1,2 @@
+# monevtikkemendagri
+test git
